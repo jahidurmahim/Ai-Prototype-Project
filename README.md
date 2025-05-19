@@ -24,7 +24,7 @@ A real-time AI solution that monitors candidates and detects suspicious activiti
 
 **Face verication and extraction process**
 
-!([Face Verification and id extraction process](https://github.com/jahidurmahim/Ai-Prototype-Project/blob/main/Face%20verification.jpg?raw=true))
+![Face Verification and id extraction process](https://github.com/jahidurmahim/Ai-Prototype-Project/blob/main/Face%20verification.jpg?raw=true))
 
 
 **ID extraction process**
@@ -39,7 +39,7 @@ A real-time AI solution that monitors candidates and detects suspicious activiti
 
 **Face Detection Alert**
 
-![Face Detection]([images/mobile_detection.png](https://github.com/jahidurmahim/Ai-Prototype-Project/blob/main/Face%20detection.jpg?raw=true))
+![Face Detection](https://github.com/jahidurmahim/Ai-Prototype-Project/blob/main/Face%20detection.jpg?raw=true)
 
 
 **Object detection Alert**

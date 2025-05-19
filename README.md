@@ -12,7 +12,7 @@ A real-time AI solution that monitors candidates and detects suspicious activiti
 - Spoof Detection: Detects fake face attempts (e.g., using a photo).
 
 
-**Welcome page**
+**Welcome Page**
 
 ![Welcome Page](https://github.com/jahidurmahim/Ai-Prototype-Project/blob/main/Welcome%20page.jpg?raw=true)
 
@@ -22,17 +22,17 @@ A real-time AI solution that monitors candidates and detects suspicious activiti
 ![Verification Process](https://github.com/jahidurmahim/Ai-Prototype-Project/blob/main/Varification%20Process.jpg?raw=true)
 
 
-**Face verication and extraction process**
+**Face Verication and Extraction Process**
 
 ![Face Verification and id extraction process](https://github.com/jahidurmahim/Ai-Prototype-Project/blob/main/Face%20verification.jpg?raw=true))
 
 
-**ID extraction process**
+**ID Extraction Process**
 
 ![ID extraction](https://github.com/jahidurmahim/Ai-Prototype-Project/blob/main/Id%20extraction.jpg?raw=true)
 
 
-**All features final output**
+**All Features Final Output**
 
 ![All features detection](https://github.com/jahidurmahim/Ai-Prototype-Project/blob/main/All%20features%20active.jpg?raw=true)
 
@@ -42,17 +42,17 @@ A real-time AI solution that monitors candidates and detects suspicious activiti
 ![Face Detection](https://github.com/jahidurmahim/Ai-Prototype-Project/blob/main/Face%20detection.jpg?raw=true)
 
 
-**Object detection Alert**
+**Object Detection Alert**
 
 ![Object Detection](https://github.com/jahidurmahim/Ai-Prototype-Project/blob/main/Object%20detecion.jpg?raw=true)
 
 
-**Face spoofing detection**
+**Face Spoofing Detection Alert**
 
 ![Face spoofing](https://github.com/jahidurmahim/Ai-Prototype-Project/blob/main/Face%20spoofying.jpg?raw=true)
 
 
-**Google sheet cheat detection data sheet**
+**Google Sheet Cheat Detection Data Sheet**
 
 ![Cheat detection data sheet](https://github.com/jahidurmahim/Ai-Prototype-Project/blob/main/Cheat%20detection%20data%20sheet.png?raw=true)
 

@@ -22,7 +22,7 @@ A real-time AI solution that monitors candidates and detects suspicious activiti
 ![Verification Process](https://github.com/jahidurmahim/Ai-Prototype-Project/blob/main/Varification%20Process.jpg?raw=true)
 
 
-**Face Verication and Extraction Process**
+**Face Verification and Extraction Process**
 
 ![Face Verification and id extraction process](https://github.com/jahidurmahim/Ai-Prototype-Project/blob/main/Face%20verification.jpg?raw=true)
 
